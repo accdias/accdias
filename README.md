@@ -7,12 +7,9 @@ Here are some ideas to get you started:
 ### I'm Antonio Dias 
 
 - 🔭 I’m currently working on nothing special
-- 🌱 I’m currently learning Go and systemd
 - 👯 I’m looking to collaborate on Python projects
-- 🤔 I’m looking for help with finding a new job
 - 💬 Ask me about Linux stuff in general
 - 📫 How to reach me: LinkedIn is a good start
-- 😄 Pronouns: He, His
 - ⚡ Fun fact: I'm terrible telling jokes
 
 #### Connect with me:
