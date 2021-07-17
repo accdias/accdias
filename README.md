@@ -1,35 +1,25 @@
-<!--
-**accdias/accdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-
-
-### I'm Antonio Dias
+### Hi! Antonio here.
 
 - 🔭 I’m currently working on nothing special
 - 👯 I’m looking to collaborate on Python projects
 - 💬 Ask me about Linux stuff in general
-- 📫 How to reach me: LinkedIn is a good start
+- 📫 How to reach me? LinkedIn is a good start
 - ⚡ Fun fact: I'm terrible telling jokes
-
-<br />
 
 #### Connect with me:
 
-[<img align="left" alt="accdias | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][in]
+[<img align="left" alt="accdias | LinkedIn"      width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][in]
+[<img align="left" alt="accdias | GitHub"        width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][gh]
+[<img align="left" alt="accdias | GitLab"        width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gl]
 [<img align="left" alt="accdias | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][so]
-[<img align="left" alt="accdias | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][gh]
-[<img align="left" alt="accdias | GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gl]
 
 <br />
 
 #### Are you into music?
 
-[<img align="left" alt="accdias | Deezer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/deezer.svg" />][de]
-[<img align="left" alt="accdias | YT Music" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtubemusic.svg" />][ym]
-[<img align="left" alt="accdias | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][sf]
-
-<br />
+[<img align="left" alt="accdias | Deezer"        width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/deezer.svg" />][de]
+[<img align="left" alt="accdias | YT Music"      width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtubemusic.svg" />][ym]
+[<img align="left" alt="accdias | Spotify"       width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][sf]
 
 <!-- Profiles -->
 [in]: https://linkedin.com/in/accdias
