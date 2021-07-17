@@ -1,0 +1,17 @@
+name: Generate PDF versions of Markdown documents
+
+on:
+  push:
+    paths:
+      - README.md
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: docker://pandoc/latex
+        with:
+          args: >-  # allows you to break string into multiple lines
+            --standalone
+            --input=README.md
+            --output=README.pdf
