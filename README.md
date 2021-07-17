@@ -6,6 +6,8 @@
 - 📫 How to reach me? LinkedIn is a good start
 - ⚡ Fun fact: I'm terrible telling jokes
 
+---
+
 #### Connect with me:
 
 [<img align="left" alt="accdias | LinkedIn"      width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />][in]
