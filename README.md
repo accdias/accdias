@@ -20,6 +20,8 @@
 [<img align="left" alt="accdias | Deezer"        width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/deezer.svg" />][de]
 [<img align="left" alt="accdias | YT Music"      width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/youtubemusic.svg" />][ym]
 [<img align="left" alt="accdias | Spotify"       width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/spotify.svg" />][sf]
+[<img align="left" alt="accdias | Last.FM"       width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/lastfm.svg" />][lf]
+[<img align="left" alt="accdias | Soundcloud"    width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/soundcloud.svg" />][sc]
 
 <!-- Profiles -->
 [in]: https://linkedin.com/in/accdias
@@ -30,3 +32,5 @@
 [de]: https://deezer.com/us/profile/823291707
 [sf]: https://open.spotify.com/user/accdias
 [ym]: https://music.youtube.com
+[sc]: https://soundcloud.com/accdias
+[lf]: https://last.fm/accdias
