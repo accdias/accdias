@@ -34,6 +34,10 @@
 [<img align="left" alt="diasacc | Last.FM"       width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/lastfm.svg" />][lf]
 [<img align="left" alt="accdias | Soundcloud"    width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/soundcloud.svg" />][sc]
 
+---
+
+<img align="left" alt="GitHub stats for accdias" src="https://github-readme-stats.vercel.app/api?username=accdias&show_icons=true&hide_border=true" />
+
 <!-- Programming languages -->
 [py]: https://python.org
 [go]: https://golang.org
