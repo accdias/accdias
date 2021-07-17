@@ -38,7 +38,7 @@
 
 ---
 
-<img align="left" alt="GitHub stats for accdias" src="https://github-readme-stats.vercel.app/api?username=accdias&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="GitHub stats for accdias" src="https://github-readme-stats.vercel.app/api?username=accdias&show_icons=true&hide_border=true" /> -->
 
 <!-- Programming languages -->
 [py]: https://python.org
