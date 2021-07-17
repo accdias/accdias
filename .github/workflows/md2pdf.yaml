@@ -18,4 +18,4 @@ jobs:
             README.md
       - uses: actions/upload-artifact@master
         with:
-          name: README.pdf
+          path: README.pdf
