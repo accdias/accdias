@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 -->
 
 
-### I'm Antonio Dias 
+### I'm Antonio Dias
 
 - 🔭 I’m currently working on nothing special
 - 👯 I’m looking to collaborate on Python projects
@@ -12,10 +12,31 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn is a good start
 - ⚡ Fun fact: I'm terrible telling jokes
 
+<br />
+
 #### Connect with me:
 
-[<img align="left" alt="accdias | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="accdias | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="accdias | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][in]
+[<img align="left" alt="accdias | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][so]
+[<img align="left" alt="accdias | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][gh]
+[<img align="left" alt="accdias | GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gl]
 
-[linkedin]: https://linkedin.com/in/accdias
-[stackoverflow]: https://stackoverflow.com/users/6789321/accdias
+<br />
+
+#### Are you into music?
+
+[<img align="left" alt="accdias | Deezer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/deezer.svg" />][de]
+[<img align="left" alt="accdias | YT Music" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtubemusic.svg" />][ym]
+[<img align="left" alt="accdias | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][sf]
+
+<br />
+
+<!-- Profiles -->
+[in]: https://linkedin.com/in/accdias
+[so]: https://stackoverflow.com/users/6789321/accdias
+[gh]: https://github.com/accdias
+[gl]: https://gitlab.com/accdias
+<!-- Music -->
+[de]: https://deezer.com/us/profile/823291707
+[sf]: https://open.spotify.com/user/accdias
+[ym]: https://music.youtube.com
