@@ -10,20 +10,12 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v2
-
-      - name: create file list
-        id: files_list
-        run: |
-          mkdir output  # create output dir
-          echo "::set-output name=files::$(printf '"%s" ' *.md)"
-
-      - uses: docker://pandoc/latex:2.9
+      - uses: docker://pandoc/latex:latest
         with:
           args: >-
             --pdf-engine=xelatex
-            --output=output/result.pdf ${{ steps.files_list.outputs.files }}
-
+            --output=README.pdf
+            README.md
       - uses: actions/upload-artifact@master
         with:
-          name: output
-          path: output
+          name: README.pdf
