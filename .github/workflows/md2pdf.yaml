@@ -9,9 +9,19 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-18.04
     steps:
-      - uses: docker://pandoc/latex
+      - uses: actions/checkout@v2
+
+      - name: create file list
+        id: files_list
+        run: |
+          mkdir output  # create output dir
+          echo "::set-output name=files::$(printf '"%s" ' *.md)"
+
+      - uses: docker://pandoc/latex:2.9
         with:
-          args: >-  # allows you to break string into multiple lines
-            --standalone
-            --output=README.pdf
-            README.md
+          args: --output=output/result.pdf ${{ steps.files_list.outputs.files }}
+
+      - uses: actions/upload-artifact@master
+        with:
+          name: output
+          path: output
