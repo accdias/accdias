@@ -16,14 +16,16 @@
 [<img align="left" alt="theaccdias | Instagram"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" />][ig]
 
 <br />
+
 #### Programming languages I'm interested in
 
 [<img align="left" alt="Python"                  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" />][py]
-[<img align="left" alt="Go"                      width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/golang.svg" />][go]
+[<img align="left" alt="Go"                      width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/go.svg" />][go]
 [<img align="left" alt="Rust"                    width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/rust.svg" />][ru]
 [<img align="left" alt="Javascript"              width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" />][js]
 
 <br />
+
 #### Are you into music?
 
 [<img align="left" alt="accdias | Deezer"        width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/deezer.svg" />][de]
@@ -35,8 +37,8 @@
 <!-- Programming languages -->
 [py]: https://python.org
 [go]: https://golang.org
-[ru]: https://rust.org
-[js]: https://javascript.org
+[ru]: https://rust-lang.org
+[js]: https://javascript.com
 
 <!-- Profiles -->
 [in]: https://linkedin.com/in/accdias
