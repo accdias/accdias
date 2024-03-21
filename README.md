@@ -12,8 +12,6 @@
 [<img align="left" alt="accdias | GitHub"        width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" />][gh]
 [<img align="left" alt="accdias | GitLab"        width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gitlab.svg" />][gl]
 [<img align="left" alt="accdias | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/stackoverflow.svg" />][so]
-[<img align="left" alt="diasacc | Twitter"       width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" />][tw]
-[<img align="left" alt="theaccdias | Instagram"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" />][ig]
 
 <br />
 
@@ -50,10 +48,11 @@
 [ad]: https://advocato.org/accdias
 [tw]: https://twitter.com/diasacc
 [ig]: https://instagram.com/theaccdias
+[re]: https://reddit.com/r/accdias
 
 <!-- Music -->
 [de]: https://deezer.com/us/profile/823291707
 [sf]: https://open.spotify.com/user/accdias
-[ym]: https://music.youtube.com
+[ym]: https://music.youtube.com/channel/UCBdFZi12iXCpaTymUw6NeNw
 [sc]: https://soundcloud.com/accdias
 [lf]: https://last.fm/diasacc
