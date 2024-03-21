@@ -1,9 +1,9 @@
 ### Hi! Antonio here.
 
-- 🔭 Currently I'm not working on anything special.
+- 🔭 Currently I'm working as a <abbr title="Technical Services Engineer">TSE</abbr> for [MongoDB][mo].
 - 👯 I’m looking to collaborate on [Python][py] projects.
 - 💬 Ask me about Linux stuff in general.
-- 📫 How to reach out to me? [LinkedIn][in] is a good start.
+- 📫 How to reach out to me? [LinkedIn][in] is a good starting point.
 - ⚡ Fun fact: It takes a while for me to understand most jokes.
 
 #### My social networks:
