@@ -32,6 +32,7 @@
 <br />
 
 #### Are you into music?
+
 [<img align="left" alt="YT Music"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/youtubemusic.svg" />][ym]
 [<img align="left" alt="Deezer"     width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/deezer.svg" />][de]
 [<img align="left" alt="Spotify"    width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/spotify.svg" />][sf]
