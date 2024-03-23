@@ -9,13 +9,13 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: docker://pandoc/latex:latest
         with:
           args: >-
             --pdf-engine=xelatex
             --output=README.pdf
             README.md
-      - uses: actions/upload-artifact@master
+      - uses: actions/upload-artifact@v4
         with:
           path: README.pdf
