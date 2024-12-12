@@ -67,4 +67,4 @@
 [sf]: https://open.spotify.com/user/accdias
 [ym]: https://music.youtube.com/channel/UCBdFZi12iXCpaTymUw6NeNw
 [sc]: https://soundcloud.com/accdias
-[lf]: https://last.fm/diasacc
+[lf]: https://last.fm/user/diasacc
