@@ -22,6 +22,7 @@
 [<img align="left" alt="Go"         width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/go.svg" />][go]
 [<img align="left" alt="Rust"       width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/rust.svg" />][ru]
 [<img align="left" alt="Javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" />][js]
+[<img align="left" alt="Lua"        width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/lua.svg" />][lu]
 
 <br />
 
@@ -48,6 +49,7 @@
 [go]: https://golang.org
 [ru]: https://rust-lang.org
 [js]: https://javascript.com
+[lu]: https://lua.org
 
 <!-- Databases -->
 [mo]: https://mongodb.com
